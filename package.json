@@ -1,0 +1,25 @@
+{
+  "name": "snakegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-georgiev-91/SnakeGame.git"
+  },
+  "author": "d.georgiev.91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-georgiev-91/SnakeGame/issues"
+  },
+  "homepage": "https://github.com/d-georgiev-91/SnakeGame#readme",
+  "dependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
