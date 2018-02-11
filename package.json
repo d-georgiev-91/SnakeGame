@@ -21,5 +21,9 @@
   "homepage": "https://github.com/d-georgiev-91/SnakeGame#readme",
   "dependencies": {
     "requirejs": "^2.3.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
   }
 }
